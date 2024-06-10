@@ -16,6 +16,11 @@
             android:name=".ProductActivity"
             android:exported="false" />
         <activity
+            android:name=".CartActivity"
+            android:exported="false" />
+
+
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
